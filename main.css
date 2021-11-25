@@ -48,7 +48,7 @@ li {
 }
 
 li:hover {
-  color: dimgrey;
+  color: rgb(126, 202, 221);
   cursor: pointer;
 }
 
